@@ -458,3 +458,4 @@ spark.stop()
 # Conclusion
 
 Apache Spark and PySpark enable processing of massive datasets efficiently across multiple machines. Combined with Parquet storage and Medallion Architecture, they form the foundation of modern Data Engineering pipelines used in organizations worldwide.
+day 4 ended
